@@ -1,0 +1,6 @@
+C:\Users\acfag\.portugol\Exerc2LaçoRep.por
+C:\Users\acfag\.portugol\Exerc2Faca.por
+C:\Users\acfag\.portugol\Exerc4Laço.por
+C:\Users\acfag\.portugol\ExercImparRep.por
+C:\Users\acfag\.portugol\Exerc2Laço.por
+C:\Users\acfag\.portugol\ExercVetor2.por
